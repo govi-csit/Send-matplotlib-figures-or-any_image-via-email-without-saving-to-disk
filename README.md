@@ -6,4 +6,4 @@ Instructions:
 2. add 'To Email address' in line no:22
 3. after running the code, will be expected to receive an email to 'sender email' which contains the same output as shown in ouput.pdf
 
-Note : To see the image/plot of base64 encoded strings in line no : 44 and 46, please visit https://codebeautify.org/base64-to-image-converter
+Note : To see the actual image/plot of base64 encoded strings in line no : 44 and 46, please visit any online Base64 to Image Decoder / Converter ; e.g. : https://codebeautify.org/base64-to-image-converter
